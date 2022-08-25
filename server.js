@@ -6,7 +6,10 @@ const queryUtil = require("./databasefiles/util.js");
 initialize();
 
 function initialize() {
+   //Start inquirer prompts.
+   
     inquirer
+    
     .createPromptModule({
         type: "list",
         choices: [
