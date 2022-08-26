@@ -1,3 +1,4 @@
+-- refreshes database by dropping old one if exist and creates new database.
 DROP DATABASE IF EXISTS employees;
 CREATE DATABASE employees;
 
