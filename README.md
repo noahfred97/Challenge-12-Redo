@@ -8,3 +8,7 @@
  - JS
  - Inquirer
  - Console,table
+
+ ## Credits
+
+ - Noah Negron 2022
