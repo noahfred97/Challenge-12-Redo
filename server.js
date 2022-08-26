@@ -1,6 +1,5 @@
 // Dependencies
 const inquirer = require("inquirer");
-const { exit } = require("process");
 const util = require ("./databasefiles/util.js");
 const queryUtil = require("./databasefiles/util.js");
 
